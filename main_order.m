@@ -8,7 +8,7 @@ close all
 % - opsz: Control in opinion dynamics (Sznajd model)
 % - cdfe: Crowd dynamics (fast exit scenario)
 %
-% [ACCC24] G. Albi, M. Caliari, F. Cassini, E. Calzola, and F. Cassini.
+% [ACCC24] G. Albi, M. Caliari, E. Calzola, and F. Cassini.
 %          Exponential integrators for mean-field selective optimal control
 %          problems. arXiv preprint arXiv:2302.00127, 2024.
 
