@@ -1,3 +1,5 @@
+% This is an auxiliary function that contains the colormap viridis.
+
 function map = color_viridis()
 map = [
 0.26700401  0.00487433  0.32941519
